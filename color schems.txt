@@ -1,0 +1,10 @@
+color scheme for nexter 
+color-primary: #c69963;
+color-primary-dark: #B28451;
+
+
+color scheme for imperial trade
+color-primary: #51c4d3;
+color-secondary: #126e82;
+color-tertiary: #132c33;
+color-light-blue: #d8e3e7;
